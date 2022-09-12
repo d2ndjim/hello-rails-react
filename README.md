@@ -2,7 +2,7 @@
 
 # Rails-React App
 
->  The application is a test of combining rails API and a react application
+>  The application is a test of combining rails API and a react to make a full stack app
 ## Built With
 
 - Languages: Ruby, JavaScript
