@@ -11,10 +11,7 @@ const options = {
   initialState: [],
   reducers: {},
   extraReducers: {
-    [fetchMessages.fulfilled]: (state, action) => {
-    const newState = { message: action.payload };
-    return newState;
-    }
+    [fetchMessages.fulfilled]: (state, action) => action.payload
   },
 };
 

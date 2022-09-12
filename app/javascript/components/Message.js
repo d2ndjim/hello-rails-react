@@ -1,6 +1,7 @@
 import React, { useEffect } from "react";
 import { useDispatch, useSelector } from "react-redux";
 import { fetchMessages } from "../redux/messageSlice";
+import { selectMessage } from "../redux/messageSlice";
 
 const Message = () => {
   const message = useSelector(selectMessage);
