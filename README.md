@@ -1,24 +1,42 @@
-# README
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Rails-React App
 
-Things you may want to cover:
+>  The application is a test of combining rails API and a react to make a full stack app
+## Built With
 
-* Ruby version
+- Languages: Ruby, JavaScript
+- Framework: Ruby on Rails, React Js
+- Database: PostgreSQL
 
-* System dependencies
+## Usage
 
-* Configuration
+Run the following commands:</br>
+`git clone https://github.com/d2ndjim/hello-rails-react.git`</br>
+`cd hello-rails-react`</br>
+`bundle install`</br>
+`bin/dev`</br>
+Open a browser and go to: `https://localhost:5000` to view the app.
 
-* Database creation
+N/A
 
-* Database initialization
+## Authors
 
-* How to run the test suite
+👤 **Lekan Jimoh**
 
-* Services (job queues, cache servers, search engines, etc.)
+- GitHub: [@d2ndjim](https://github.com/d2ndjim)
+- Twitter: [@d2ndjim](https://twitter.com/d2ndjim_)
+- LinkedIn: [Lekan Jimoh](https://linkedin.com/in/lekanj)
+## 🤝 Contributing
 
-* Deployment instructions
+Contributions, issues, and feature requests are welcome!
 
-* ...
+Feel free to check the [issues page](https://github.com/d2ndjim/hello-rails-react/issues).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## 📝 License
+
+This project is [MIT](./license.md) licensed.
